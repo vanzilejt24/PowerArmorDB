@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Superstar Health Care</title>
+        <title>Power Armor Data Base</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="mystyle.css">
@@ -30,8 +30,8 @@
     -->
     </head>
     <body>
-        <h1><a href="home.html">Superstar Health Care</a></h1>
-        <h2>Create New User Record</h2>
+        <h1><a href="home.html">Power Armor Data Base</a></h1>
+        <h2>Add A New Power Armor Component</h2>
         <form action="create" method="get">
 
             Model Name: <input type="text" name="modelName" size="15" >

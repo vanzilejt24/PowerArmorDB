@@ -8,16 +8,16 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Phillips' Employee Web</title>
+        <title>Power Armor Data Base</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="mystyle.css">
     </head>
     <body>
-        <h1><a href="home.html">Employee Web</a></h1>
-        <h2>Delete Employee Record</h2>
+        <h1><a href="home.html">Power Armor Data Base</a></h1>
+        <h2>Delete A Power Armor Component Entry</h2>
         <form action="delete" method="post">
-            Record number: <input type="number" name="id" placeholder="Record id to delete" required>
+            Entry Number: <input type="number" name="id" placeholder="Record id to delete" required>
             <br><br>
 
             <input type="hidden" name="action" value="deleteRecord">
