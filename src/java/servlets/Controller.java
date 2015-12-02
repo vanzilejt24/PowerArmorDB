@@ -16,7 +16,8 @@ import model.Parmor;
  * which then updates the model / database as needed and transfers control with
  * data to one the the HTML/JSP view-oriented programs for display.
  *
- * @author John Phillips
+ * @author Jon VanZile - modified from John Phillips' code
+ * @version 0.1 on 2015-12-01
  */
 public class Controller extends HttpServlet {
 

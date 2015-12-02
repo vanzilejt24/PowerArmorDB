@@ -1,7 +1,7 @@
 <%-- 
     Document   : displayRecords
     Created on : Nov 3, 2015, 4:52:40 PM
-    Author     : John Phillips
+    Author     : Jon VanZile - modified from John Phillips' code
 --%>
 
 <%@page import="java.util.List, model.Parmor"%>

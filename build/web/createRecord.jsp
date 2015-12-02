@@ -1,7 +1,7 @@
 <%-- 
     Document   : createRecord
     Created on : Nov 3, 2015, 5:19:26 PM
-    Author     : John Phillips
+    Author     : Jon VanZile - modified from John Phillips' code
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

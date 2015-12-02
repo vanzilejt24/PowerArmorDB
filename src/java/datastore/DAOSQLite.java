@@ -15,8 +15,8 @@ import model.Parmor;
 /**
  * DAOSQLite Data Access Object for an SQLite database
  *
- * @author John Phillips
- * @version 0.3 on 2015-11-03
+ * @author Jon VanZile - modified from John Phillips' code
+ * @version 0.1 on 2015-12-01
  */
 public class DAOSQLite {
 

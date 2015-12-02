@@ -4,7 +4,8 @@ import java.io.Serializable;
 
 /**
  *
- * @author John Phillips
+ * @author Jon VanZile - modified from John Phillips' code
+ * @version 0.1 on 2015-12-01
  */
 public class Parmor implements Serializable {
 

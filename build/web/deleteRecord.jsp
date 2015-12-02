@@ -1,7 +1,8 @@
 <%-- 
     Document   : deleteRecord
     Created on : Nov 3, 2015, 5:53:03 PM
-    Author     : John Phillips
+    Author     : Jon VanZile - modified from John Phillips' code
+ 
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

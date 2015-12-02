@@ -1,7 +1,8 @@
 <%-- 
     Document   : updateRecord2
     Created on : Nov 3, 2015, 8:54:49 PM
-    Author     : John Phillips
+    Author     : Jon VanZile - modified from John Phillips' code
+ 
 --%>
 
 <%@page import="model.Parmor" %>

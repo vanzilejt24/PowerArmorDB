@@ -3,11 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/atlas/PowerArmorMVC/web/deleteRecord.jsp</file>
-            <file>file:/home/atlas/PowerArmorMVC/web/displayRecords.jsp</file>
-            <file>file:/home/atlas/PowerArmorMVC/web/createRecord.jsp</file>
-            <file>file:/home/atlas/PowerArmorMVC/web/home.html</file>
-            <file>file:/home/atlas/PowerArmorMVC/web/mystyle.css</file>
+            <file>file:/home/atlas/ProjectThree/PowerArmorDB/src/java/servlets/Controller.java</file>
+            <file>file:/home/atlas/ProjectThree/PowerArmorDB/web/updateRecord2.jsp</file>
+            <file>file:/home/atlas/ProjectThree/PowerArmorDB/web/displayRecords.jsp</file>
+            <file>file:/home/atlas/ProjectThree/PowerArmorDB/web/updateRecord1.jsp</file>
+            <file>file:/home/atlas/ProjectThree/PowerArmorDB/src/java/datastore/DAOSQLite.java</file>
+            <file>file:/home/atlas/ProjectThree/PowerArmorDB/web/home.html</file>
+            <file>file:/home/atlas/ProjectThree/PowerArmorDB/web/mystyle.css</file>
+            <file>file:/home/atlas/ProjectThree/PowerArmorDB/web/createRecord.jsp</file>
+            <file>file:/home/atlas/ProjectThree/PowerArmorDB/src/java/model/Parmor.java</file>
+            <file>file:/home/atlas/ProjectThree/PowerArmorDB/web/deleteRecord.jsp</file>
         </group>
     </open-files>
 </project-private>
